@@ -1,0 +1,7 @@
+fastapi>=0.115.0
+uvicorn>=0.34.0
+python-multipart>=0.0.19
+Pillow>=11.0.0
+pillow-avif-plugin>=1.5.0
+pillow-heif>=1.0.0
+pymupdf>=1.25.0
